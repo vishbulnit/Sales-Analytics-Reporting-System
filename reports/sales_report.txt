@@ -1,0 +1,48 @@
+==================================================
+SALES ANALYTICS REPORT
+==================================================
+SUMMARY
+--------------------------------------------------
+Total sales: 5705.0
+
+Average sales: 211.3
+
+Total orders: 27
+
+Total quantity: 61.0
+
+Sales by region: 
+   region   sales
+3   West  1652.0
+2  South  1571.0
+0   East  1300.0
+1  North  1182.0
+
+Sales by product: 
+     product   sales
+1      Desk  2000.0
+0     Chair  1650.0
+3   Monitor  1080.0
+4     Mouse   520.0
+2  Keyboard   455.0
+
+Sales by category: 
+       category   sales
+1    Furniture  3650.0
+0  Electronics  2055.0
+
+Sales by month: 
+      month   sales
+0  2026-01  3002.5
+1  2026-02  2702.5
+
+Sales statistics: 
+ {'minimum': 45.5, 'maximum': 500.0, 'sum': 5705.0}
+
+Top product: 
+ Desk
+
+Top region: 
+ West
+
+==================================================
