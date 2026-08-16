@@ -20,8 +20,8 @@ order_id,date,customer,product,category,quantity,unit_price,region
 1018,2/7/2026,Ashish,Chair,Furniture,4,75,East
 1019,2/8/2026,Vishnu,Monitor,Electronics,2,180,West
 1020,2/9/2026,Surya,Keyboard,Electronics,1,45.5,South
-1021,2/10/2026,Shivaay,Desk,Furniture,2,250,North
-1022,2/11/2026,Nitya,Mouse,Electronics,5,20,East
+1020,2/9/2026,Surya,Keyboard,Electronics,1,45.5,South
+1020,2/9/2026,Surya,Keyboard,Electronics,1,45.5,South
 1023,2/12/2026,Chandan,Chair,Furniture,3,75,West
 1024,2/13/2026,Shekhar,Monitor,Electronics,1,180,South
 1025,2/7/2026,Rajesh,Chair,Furniture,4,75,East
